@@ -1,9 +1,0 @@
-1. https://omdena.com/blog/data-science-road-map-2021/
-2. On asking help: https://omdena.com/blog/data-scientist-help/
-3. Build a portfolio: https://omdena.com/blog/portfolio/
-4. Data engineering skills: https://omdena.com/blog/data-engineering-skills/
-5. Learn new skills: https://medium.com/omdena/top-resources-to-kick-off-your-2020-data-science-learning-path-5630470a801b
-
-1. NLP case studies: https://omdena.com/nlp-clustering/
-https://omdena.com/blog/fighting-misinformation/
-https://omdena.com/category/natural-language-processing/
